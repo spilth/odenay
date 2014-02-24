@@ -1,0 +1,19 @@
+{
+  "name": "odenay",
+  "version": "0.1.0",
+  "description": "Pig Latin translator for Node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spilth/odenay.git"
+  },
+  "devDependencies": {
+    "test": "*"
+  },
+  "scripts": {
+    "test": "node test/odenay_test.js"
+  },
+  "engines": {
+    "node": ">=0.10.26"
+  }
+}
+
